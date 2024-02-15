@@ -19,20 +19,27 @@ MaithiliNMT aims to bridge the digital language divide by providing a robust, op
 
 ### Installation
 1. Clone the repository:
+   
+```
 git clone https://github.com/abhisekjha/MaithiliNMT.git
+```
 
-2. Install the required dependencies:
+3. Install the required dependencies:
+```
 pip install -r requirements.txt
+```
 
 ### Training Your Model
 1. Prepare your dataset by following the instructions in the `data_preparation` folder.
 2. To start training your model, run:
-
+```
 python train.py --config_path configs/train_config.yaml
-
+```
 ## Usage
 For translating text using a pre-trained model:
+```
 python translate.py --input_text "Your Maithili text here" --model_path "path/to/your/model"
+```
 
 ## Contributing
 We welcome contributions from the community! Please read our contributing guidelines in `CONTRIBUTING.md` for details on how to submit pull requests.
