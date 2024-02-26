@@ -1,4 +1,4 @@
-# MaithiliNMT: An Open-Source Neural Machine Translation Framework for the Maithili Language
+# MaithiliNMT: Neural Machine Translation Framework for the Maithili Language
 
 ## Description
 MaithiliNMT aims to bridge the digital language divide by providing a robust, open-source Neural Machine Translation (NMT) framework specifically for the Maithili language, spoken by millions in Nepal and India. This project leverages the latest advancements in NMT and unsupervised learning to create high-quality translation models that require minimal bilingual data, focusing on enhancing digital accessibility and preserving the linguistic heritage of the Maithili-speaking community.
