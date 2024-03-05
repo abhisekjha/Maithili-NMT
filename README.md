@@ -51,3 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - The Maithili-speaking community for their invaluable contributions and feedback.
 - Open-source projects and researchers in the field of NMT for their groundbreaking work and inspiration.
 
+ `translate.py`would be live once it is completed. Thanks for your patience. 
