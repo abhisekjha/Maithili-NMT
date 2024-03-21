@@ -37,14 +37,8 @@ python train.py --config_path configs/train_config.yaml
 ## Usage
 For translating text using a pre-trained model:
 ```
-python translate.py --input_text "Your Maithili text here" --model_path "path/to/your/model"
+python translate.py --input_text "Your Maithili text here" --model_path "path"
 ```
-
-## Contributing
-We welcome contributions from the community! Please read our contributing guidelines in `CONTRIBUTING.md` for details on how to submit pull requests.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Acknowledgments
 - The Maithili-speaking community for their invaluable contributions and feedback.
